@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "NodeJs_Sam",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "nodemon osDemo.js"
+    "start": "nodemon eventsDemo.js"
   },
   "repository": {
     "type": "git",
